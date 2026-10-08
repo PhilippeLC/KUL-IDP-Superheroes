@@ -31,8 +31,10 @@ Dark overlay
 No immediate repetition of the same hero
 Installation
 
-Install Tampermonkey
-Open:
+Install Tampermonkey (browser extension)
+
+Open "Dashboard" and go to "Utilities" tab.
+Copy following link to the "Import from URL" textbox:
 
 https://raw.githubusercontent.com/PhilippeLC/KUL-IDP-Superheroes/main/ChangeCentraleLoginWallpapers.js
 
